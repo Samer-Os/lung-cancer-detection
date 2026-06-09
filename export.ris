@@ -1,0 +1,481 @@
+TY  - JOUR
+AB  - … Second, while SE blocks provided clear benefits in this study, newer attention mechanisms, such as Vision Transformers (ViTs) and hybrid CNN-transformer models, have shown …
+AU  - Huang, Kian A
+AU  - Venkitasubramony, Vishnu
+AU  - Prakash, Neelesh S
+DA  - 2025/7//
+DO  - 10.7759/cureus.87071
+PB  - Springer Science and Business Media LLC
+PY  - 2025
+TI  - Leveraging Transfer Learning and Attention Mechanisms for a Computed Tomography Lung Cancer Classification Model
+T2  - Cureus
+ER  -
+TY  - CONF
+AB  - Lung cancer is one of the most lethal cancer types; thousands of peoples are infected with this type of cancer, and if they do not discover it in the early stages of the disease, then the chance of surviving of the patient will be very poor. For the suggested reasons above and to help in overcoming this terrible, early diagnosis with the assistance of artificial intelligence procedures most needed. Through this research, a Computer-aided system introduced for detecting lung cancer in a dataset collected from the Iraqi hospitals by using a convolutional neural network technique with AlexNet architecture for helping with the diagnosis of the patient's cases: normal, benign, or malignant. The proposed model gives high accuracy ups to 93.548%. The other performance metrics comes with high values such as 95.714% for sensitivity and 95% for Specificity.
+AU  - Al-Yasriy, Hamdalla F.
+AU  - Al-Husieny, Muayed S.
+AU  - Mohsen, Furat Y.
+AU  - Khalil, Enam A.
+AU  - Hassan, Zainab S.
+DA  - 2020/11//
+DO  - 10.1088/1757-899X/928/2/022035
+IS  - 2
+PB  - IOP Publishing Ltd
+PY  - 2020
+TI  - Diagnosis of Lung Cancer Based on CT Scans Using CNN
+T2  - IOP Conference Series: Materials Science and Engineering
+VL  - 928
+ER  -
+TY  - RPRT
+AB  - Deeper neural networks are more difficult to train. We present a residual learning framework to ease the training of networks that are substantially deeper than those used previously. We explicitly reformulate the layers as learning residual functions with reference to the layer inputs, instead of learning unreferenced functions. We provide comprehensive empirical evidence showing that these residual networks are easier to optimize, and can gain accuracy from considerably increased depth. On the ImageNet dataset we evaluate residual nets with a depth of up to 152 layers-8× deeper than VGG nets [40] but still having lower complexity. An ensemble of these residual nets achieves 3.57% error on the ImageNet test set. This result won the 1st place on the ILSVRC 2015 classification task. We also present analysis on CIFAR-10 with 100 and 1000 layers. The depth of representations is of central importance for many visual recognition tasks. Solely due to our extremely deep representations, we obtain a 28% relative improvement on the COCO object detection dataset. Deep residual nets are foundations of our submissions to ILSVRC & COCO 2015 competitions 1 , where we also won the 1st places on the tasks of ImageNet detection, ImageNet local-ization, COCO detection, and COCO segmentation.
+AU  - He, Kaiming
+AU  - Zhang, Xiangyu
+AU  - Ren, Shaoqing
+AU  - Sun, Jian
+DO  - 10.1109/CVPR.2016.90
+PY  - 2016
+TI  - Deep Residual Learning for Image Recognition
+UR  - http://image-net.org/challenges/LSVRC/2015/
+ER  -
+TY  - JOUR
+AB  - This article presents global cancer statistics by world region for the year 2022 based on updated estimates from the International Agency for Research on Cancer (IARC). There were close to 20 million new cases of cancer in the year 2022 (including nonmelanoma skin cancers [NMSCs]) alongside 9.7 million deaths from cancer (including NMSC). The estimates suggest that approximately one in five men or women develop cancer in a lifetime, whereas around one in nine men and one in 12 women die from it. Lung cancer was the most frequently diagnosed cancer in 2022, responsible for almost 2.5 million new cases, or one in eight cancers worldwide (12.4% of all cancers globally), followed by cancers of the female breast (11.6%), colorectum (9.6%), prostate (7.3%), and stomach (4.9%). Lung cancer was also the leading cause of cancer death, with an estimated 1.8 million deaths (18.7%), followed by colorectal (9.3%), liver (7.8%), female breast (6.9%), and stomach (6.8%) cancers. Breast cancer and lung cancer were the most frequent cancers in women and men, respectively (both cases and deaths). Incidence rates (including NMSC) varied from four‐fold to five‐fold across world regions, from over 500 in Australia/New Zealand (507.9 per 100,000) to under 100 in Western Africa (97.1 per 100,000) among men, and from over 400 in Australia/New Zealand (410.5 per 100,000) to close to 100 in South‐Central Asia (103.3 per 100,000) among women. The authors examine the geographic variability across 20 world regions for the 10 leading cancer types, discussing recent trends, the underlying determinants, and the prospects for global cancer prevention and control. With demographics‐based predictions indicating that the number of new cases of cancer will reach 35 million by 2050, investments in prevention, including the targeting of key risk factors for cancer (including smoking, overweight and obesity, and infection), could avert millions of future cancer diagnoses and save many lives worldwide, bringing huge economic as well as societal dividends to countries over the forthcoming decades.
+AU  - Bray, Freddie
+AU  - Laversanne, Mathieu
+AU  - Sung, Hyuna
+AU  - Ferlay, Jacques
+AU  - Siegel, Rebecca L.
+AU  - Soerjomataram, Isabelle
+AU  - Jemal, Ahmedin
+DA  - 2024/5//
+DO  - 10.3322/caac.21834
+IS  - 3
+PB  - Wiley
+PY  - 2024
+SP  - 229
+EP  - 263
+TI  - Global cancer statistics 2022: GLOBOCAN estimates of incidence and mortality worldwide for 36 cancers in 185 countries
+T2  - CA: A Cancer Journal for Clinicians
+VL  - 74
+ER  -
+TY  - JOUR
+AB  - The use of computer algorithms has gained momentum in filling/assisting roles of specialists especially in early diagnosis scenarios. This paper proposes the employment of deep neural networks (DNN) to detect images with malignant nodules of lung computed tomography (CT). The method includes subjecting input images to a simple and fast pre-processing which isolates regions of interest (ROI), that’s the lungs dominated area, ridding the images of other surrounding tissues and artifacts. Centered and size normalized images are then fed to a deep neural network for training and validation. In this work transfer learning is used to readjust GoogLeNet DNN to learn this medical data. This includes allowing final layers of the DNN to evolve while restricting deep layers. In this setting, a rough, unprocessed dataset, the IQ-OTH/NCCD lung cancer dataset was used to train/validate the proposed algorithm. Experimental results show that this algorithm scores 94.38% accuracy, which outperforms benchmark method previously used with this dataset.
+AU  - AL-Huseiny, Muayed S.
+AU  - Sajit, Ahmed S.
+DA  - 2021/4//
+DO  - 10.11591/ijeecs.v22.i2.pp1078-1086
+IS  - 2
+KW  - Artificial intelligence
+KW  - CT scans
+KW  - Computer vision
+KW  - Deep neural network
+KW  - Lung cancer
+KW  - Transfer learning
+PB  - Institute of Advanced Engineering and Science
+PY  - 2021
+SP  - 1078
+EP  - 1086
+TI  - Transfer learning with GoogLeNet for detection of lung cancer
+T2  - Indonesian Journal of Electrical Engineering and Computer Science
+VL  - 22
+ER  -
+TY  - JOUR
+AB  - Lung cancer is one of the most harmful malignant tumors to human health. The accurate judgment of the pathological type of lung cancer is vital for treatment. Traditionally, the pathological type of lung cancer requires a histopathological examination to determine, which is invasive and time consuming. In this work, a novel residual neural network is proposed to identify the pathological type of lung cancer via CT images. Due to the low amount of CT images in practice, we explored a medical- to-medical transfer learning strategy. Specifically, a residual neural network is pre-trained on public medical images dataset luna16, and then fine-tuned on our intellectual property lung cancer dataset collected in Shandong Provincial Hospital. Data experiments show that our method achieves 85.71% accuracy in identifying pathological types of lung cancer from CT images and outperforming other models trained with 2054 labels. Our method performs better than AlexNet, VGG16 and DenseNet, which provides an efficient, non-invasive detection tool for pathological diagnosis.
+AU  - Wang, Shudong
+AU  - Dong, Liyuan
+AU  - Wang, Xun
+AU  - Wang, Xingguang
+DA  - 2020/1//
+DO  - 10.1515/med-2020-0028
+IS  - 1
+KW  - CT images
+KW  - Lung cancer
+KW  - Pathological type
+KW  - Residual neural network
+KW  - Transfer learning
+PB  - De Gruyter Open Ltd
+PY  - 2020
+SP  - 190
+EP  - 197
+TI  - Classification of pathological types of lung cancer from CT images by deep residual neural networks with transfer learning strategy
+T2  - Open Medicine (Poland)
+VL  - 15
+ER  -
+TY  - JOUR
+AB  - Lung cancer (LC) remains a leading cause of death worldwide. Early diagnosis is critical to protect innocent human lives. Computed tomography (CT) scans are one of the primary imaging modalities for lung cancer diagnosis. However, manual CT scan analysis is time-consuming and prone to errors/not accurate. Considering these shortcomings, computational methods especially machine learning and deep learning algorithms are leveraged as an alternative to accelerate the accurate detection of CT scans as cancerous, and non-cancerous. In the present article, we proposed a novel transfer learning-based predictor called, Lung-EffNet for lung cancer classification. Lung-EffNet is built based on the architecture of EfficientNet and further modified by adding top layers in the classification head of the model. Lung-EffNet is evaluated by utilizing five variants of EfficientNet i.e., B0–B4. The experiments are conducted on the benchmark dataset “IQ-OTH/NCCD” for lung cancer patients grouped as benign, malignant, or normal based on the presence or absence of lung cancer. The class imbalance issue was handled through multiple data augmentation methods to overcome the biases. The developed model Lung-EffNet attained 99.10% of accuracy and a score of 0.97 to 0.99 of ROC on the test set. We compared the efficacy of the proposed fine-tuned pre-trained EfficientNet with other pre-trained CNN architectures. The predicted outcomes demonstrate that EfficientNetB1 based Lung-EffNet outperforms other CNNs in terms of both accuracy and efficiency. Moreover, it is faster and requires fewer parameters to train than other CNN based models, making it a good choice for large-scale deployment in clinical settings and a promising tool for automated lung cancer diagnosis from CT scan images.
+AU  - Raza, Rehan
+AU  - Zulfiqar, Fatima
+AU  - Khan, Muhammad Owais
+AU  - Arif, Muhammad
+AU  - Alvi, Atif
+AU  - Iftikhar, Muhammad Aksam
+AU  - Alam, Tanvir
+DA  - 2023/11//
+DO  - 10.1016/j.engappai.2023.106902
+KW  - Deep learning
+KW  - EfficientNetB1
+KW  - Lung cancer
+KW  - Medical imaging
+KW  - Transfer learning
+PB  - Elsevier Ltd
+PY  - 2023
+TI  - Lung-EffNet: Lung cancer classification using EfficientNet from CT-scan images
+T2  - Engineering Applications of Artificial Intelligence
+VL  - 126
+ER  -
+TY  - JOUR
+AB  - Lung cancer is the most common cancer that cannot be ignored and cause death with late health care. Currently, CT can be used to help doctors detect the lung cancer in the early stages. In many cases, the diagnosis of identifying the lung cancer depends on the experience of doctors, which may ignore some patients and cause some problems. Deep learning has been proved as a popular and powerful method in many medical imaging diagnosis areas. In this paper, three types of deep neural networks (e.g., CNN, DNN, and SAE) are designed for lung cancer calcification. Those networks are applied to the CT image classification task with some modification for the benign and malignant lung nodules. Those networks were evaluated on the LIDC-IDRI database. The experimental results show that the CNN network archived the best performance with an accuracy of 84.15%, sensitivity of 83.96%, and specificity of 84.32%, which has the best result among the three networks.
+AU  - Song, Qing Zeng
+AU  - Zhao, Lei
+AU  - Luo, Xing Ke
+AU  - Dou, Xue Chen
+DO  - 10.1155/2017/8314740
+PB  - Hindawi Limited
+PY  - 2017
+TI  - Using Deep Learning for Classification of Lung Nodules on Computed Tomography Images
+T2  - Journal of Healthcare Engineering
+VL  - 2017
+ER  -
+TY  - JOUR
+AB  - Purpose: Lung cancer is the most frequent cancer worldwide and is the leading cause of cancer-related deaths. Its early detection and treatment at the stage of a lung nodule improve the prognosis. In this study was proposed a new classification approach named bilinear convolutional neural network (BCNN) for the classification of lung nodules on CT images. Methods: Convolutional neural network (CNN) is considered as the leading model in deep learning and is highly recommended for the design of computer-aided diagnosis systems thanks to its promising results on medical image analysis. The proposed BCNN scheme consists of two-stream CNNs (VGG16 and VGG19) as feature extractors followed by a support vector machine (SVM) classifier for false positive reduction. Series of experiments are performed by introducing the bilinear vector features extracted from three BCNN combinations into various types of SVMs that we adopted instead of the original softmax to determine the most suitable classifier for our study. Results: The method performance was evaluated on 3186 images from the public LUNA16 database. We found that the BCNN [VGG16, VGG19] combination with and without SVM surpassed the [VGG16]2 and [VGG19]2 architectures, achieved an accuracy rate of 91.99% against 91.84% and 90.58%, respectively, and an area under the curve (AUC) rate of 95.9% against 94.8% and 94%, respectively. Conclusion: The proposed method improved the outcomes of conventional CNN-based architectures and showed promising and satisfying results, compared to other works, with an affordable complexity. We believe that the proposed BCNN can be used as an assessment tool for radiologists to make a precise analysis of lung nodules and an early diagnosis of lung cancers.
+AU  - Mastouri, Rekka
+AU  - Khlifa, Nawres
+AU  - Neji, Henda
+AU  - Hantous-Zannad, Saoussen
+DA  - 2021/1//
+DO  - 10.1007/s11548-020-02283-z
+IS  - 1
+KW  - Bilinear CNN
+KW  - Classification
+KW  - Lung nodules
+KW  - SVM
+PB  - Springer Science and Business Media Deutschland GmbH
+PY  - 2021
+SP  - 91
+EP  - 101
+TI  - A bilinear convolutional neural network for lung nodules classification on CT images
+T2  - International Journal of Computer Assisted Radiology and Surgery
+VL  - 16
+ER  -
+TY  - JOUR
+AB  - Adenocarcinoma (AC) and squamous cell carcinoma (SCC) are frequent reported cases of non-small cell lung cancer (NSCLC), responsible for a large fraction of cancer deaths worldwide. In this study, we aim to investigate the potential of NSCLC histology classification into AC and SCC by applying different feature extraction and classification techniques on pre-treatment CT images. The employed image dataset (102 patients) was taken from the publicly available cancer imaging archive collection (TCIA). We investigated four different families of techniques: (a) radiomics with two classifiers (kNN and SVM), (b) four state-of-the-art convolutional neural networks (CNNs) with transfer learning and fine tuning (Alexnet, ResNet101, Inceptionv3 and InceptionResnetv2), (c) a CNN combined with a long short-term memory (LSTM) network to fuse information about the spatial coherency of tumor's CT slices, and (d) combinatorial models (LSTM + CNN + radiomics). In addition, the CT images were independently evaluated by two expert radiologists. Our results showed that the best CNN was Inception (accuracy = 0.67, auc = 0.74). LSTM + Inception yielded superior performance than all other methods (accuracy = 0.74, auc = 0.78). Moreover, LSTM + Inception outperformed experts by 7-25% (p < 0.05). The proposed methodology does not require detailed segmentation of the tumor region and it may be used in conjunction with radiological findings to improve clinical decision-making.
+AU  - Marentakis, Panagiotis
+AU  - Karaiskos, Pantelis
+AU  - Kouloulias, Vassilis
+AU  - Kelekis, Nikolaos
+AU  - Argentos, Stylianos
+AU  - Oikonomopoulos, Nikolaos
+AU  - Loukas, Constantinos
+DO  - 10.1007/s11517-020-02302-w
+KW  - CNN
+KW  - LSTM
+KW  - Lung histology classification
+KW  - NSCLC
+KW  - Radiomics
+PY  - 2021
+TI  - Lung cancer histology classification from CT images based on radiomics and deep learning models
+UR  - https://doi.org/10.1007/s11517-020-02302-w
+ER  -
+TY  - JOUR
+AB  - Objective: The research aims to develop an advanced and precise lung cancer screening model based on Convolutional Neural Networks (CNN). Methods: Based on the health medical big data platform of Shandong University, we developed a VGG16-Based CNN lung cancer screening model. This model was trained using the Computed Tomography scans data of patients from Pingyi Traditional Chinese Medicine Hospital in Shandong Province, from January to February 2023. Data augmentation techniques, including random resizing, cropping, horizontal flipping, color jitter, random rotation and normalization, were applied to improve model generalization. We used five-fold cross-validation to robustly assess performance. The model was fine-tuned with an SGD optimizer (learning rate 0.001, momentum 0.9, and L2 regularization) and a learning rate scheduler. Dropout layers were added to prevent the model from relying too heavily on specific neurons, enhancing its ability to generalize. Early stopping was implemented when validation loss did not decrease over 10 epochs. In addition, we evaluated the model’s performance with Area Under the Curve (AUC), Classification accuracy, Positive Predictive Value (PPV), and Negative Predictive Value (NPV), Sensitivity, Specificity and F1 score. External validation used an independent dataset from the same hospital, covering January to February 2022. Results: The training and validation loss and accuracy over iterations show that both accuracy metrics peak at over 0.9 by iteration 15, prompting early stopping to prevent overfitting. Based on five-fold cross-validation, the ROC curves for the VGG16-Based CNN model, demonstrate an AUC of 0.963 ± 0.004, highlighting its excellent diagnostic capability. Confusion matrices provide average metrics with a classification accuracy of 0.917 ± 0.004, PPV of 0.868 ± 0.015, NPV of 0.931 ± 0.003, Sensitivity of 0.776 ± 0.01, Specificity of 0.962 ± 0.005 and F1 score of 0.819 ± 0.008, respectively. External validation confirmed the model’s robustness across different patient populations and imaging conditions. Conclusion: The VGG16-Based CNN lung screening model constructed in this study can effectively identify lung tumors, demonstrating reliability and effectiveness in real-world medical settings, and providing strong theoretical and empirical support for its use in lung cancer screening.
+AU  - Xu, Hua
+AU  - Yu, Yuanyuan
+AU  - Chang, Jie
+AU  - Hu, Xifeng
+AU  - Tian, Zitong
+AU  - Li, Ouwen
+DO  - 10.3389/fonc.2024.1424546
+KW  - VGG16 architecture
+KW  - computed tomography scans
+KW  - convolutional neural network
+KW  - lung cancer screening
+KW  - medical image recognition
+PB  - Frontiers Media SA
+PY  - 2024
+TI  - Precision lung cancer screening from CT scans using a VGG16-based convolutional neural network
+T2  - Frontiers in Oncology
+VL  - 14
+ER  -
+TY  - JOUR
+AB  - In recent times, deep learning has emerged as a great resource to help research in medical sciences. A lot of work has been done with the help of computer science to expose and predict different diseases in human beings. This research uses the Deep Learning algorithm Convolutional Neural Network (CNN) to detect a Lung Nodule, which can be cancerous, from different CT Scan images given to the model. For this work, an Ensemble approach has been developed to address the issue of Lung Nodule Detection. Instead of using only one Deep Learning model, we combined the performance of two or more CNNs so they could perform and predict the outcome with more accuracy. The LUNA 16 Grand challenge dataset has been utilized, which is available online on their website. The dataset consists of a CT scan with annotations that better understand the data and information about each CT scan. Deep Learning works the same way our brain neurons work; therefore, deep learning is based on Artificial Neural Networks. An extensive CT scan dataset is collected to train the deep learning model. CNNs are prepared using the data set to classify cancerous and non-cancerous images. A set of training, validation, and testing datasets is developed, which is used by our Deep Ensemble 2D CNN. Deep Ensemble 2D CNN consists of three different CNNs with different layers, kernels, and pooling techniques. Our Deep Ensemble 2D CNN gave us a great result with 95% combined accuracy, which is higher than the baseline method.
+AU  - Shah, Asghar Ali
+AU  - Malik, Hafiz Abid Mahmood
+AU  - Muhammad, Abdul Hafeez
+AU  - Alourani, Abdullah
+AU  - Butt, Zaeem Arif
+DA  - 2023/12//
+DO  - 10.1038/s41598-023-29656-z
+IS  - 1
+PB  - Nature Research
+PY  - 2023
+TI  - Deep learning ensemble 2D CNN approach towards the detection of lung cancer
+T2  - Scientific Reports
+VL  - 13
+ER  -
+TY  - GEN
+AB  - One of the most common and deadly diseases in the world is lung cancer. Only early identification of lung cancer can increase a patient’s probability of survival. A frequently used modality for the screening and diagnosis of lung cancer is computed tomography (CT) imaging, which provides a detailed scan of the lung. In line with the advancement of computer-assisted systems, deep learning techniques have been extensively explored to help in interpreting the CT images for lung cancer identification. Hence, the goal of this review is to provide a detailed review of the deep learning techniques that were developed for screening and diagnosing lung cancer. This review covers an overview of deep learning (DL) techniques, the suggested DL techniques for lung cancer applications, and the novelties of the reviewed methods. This review focuses on two main methodologies of deep learning in screening and diagnosing lung cancer, which are classification and segmentation methodologies. The advantages and shortcomings of current deep learning models will also be discussed. The resultant analysis demonstrates that there is a significant potential for deep learning methods to provide precise and effective computer-assisted lung cancer screening and diagnosis using CT scans. At the end of this review, a list of potential future works regarding improving the application of deep learning is provided to spearhead the advancement of computer-assisted lung cancer diagnosis systems.
+AU  - Thanoon, Mohammad A.
+AU  - Zulkifley, Mohd Asyraf
+AU  - Mohd Zainuri, Muhammad Ammirrul Atiqi
+AU  - Abdani, Siti Raihanah
+DA  - 2023/8//
+DO  - 10.3390/diagnostics13162617
+IS  - 16
+KW  - classification
+KW  - deep learning techniques
+KW  - detection
+KW  - diagnosis
+KW  - lung cancer
+KW  - segmentation
+PB  - Multidisciplinary Digital Publishing Institute (MDPI)
+PY  - 2023
+TI  - A Review of Deep Learning Techniques for Lung Cancer Screening and Diagnosis Based on CT Images
+T2  - Diagnostics
+VL  - 13
+ER  -
+TY  - JOUR
+AB  - The diagnosis of early-stage lung cancer is challenging due to its asymptomatic nature, especially given the repeated radiation exposure and high cost of computed tomography(CT). Examining the lung CT images to detect pulmonary nodules, especially the cell lung cancer lesions, is also tedious and prone to errors even by a specialist. This study proposes a cancer diagnostic model based on a deep learning-enabled support vector machine (SVM). The proposed computer-aided design (CAD) model identifies the physiological and pathological changes in the soft tissues of the cross-section in lung cancer lesions. The model is first trained to recognize lung cancer by measuring and comparing the selected profile values in CT images obtained from patients and control patients at their diagnosis. Then, the model is tested and validated using the CT scans of both patients and control patients that are not shown in the training phase. The study investigates 888 annotated CT scans from the publicly available LIDC/IDRI database. The proposed deep learning-assisted SVM-based model yields 94% accuracy for pulmonary nodule detection representing early-stage lung cancer. It is found superior to other existing methods including complex deep learning, simple machine learning, and the hybrid techniques used on lung CT images for nodule detection. Experimental results demonstrate that the proposed approach can greatly assist radiologists in detecting early lung cancer and facilitating the timely management of patients.
+AU  - Shafi, Imran
+AU  - Din, Sadia
+AU  - Khan, Asim
+AU  - Díez, Isabel De La Torre
+AU  - Casanova, Ramón del Jesús Palí
+AU  - Pifarre, Kilian Tutusaus
+AU  - Ashraf, Imran
+DA  - 2022/11//
+DO  - 10.3390/cancers14215457
+IS  - 21
+KW  - capsule neural network
+KW  - computed tomography
+KW  - lung cancer detection
+KW  - wide network
+PB  - MDPI
+PY  - 2022
+TI  - An Effective Method for Lung Cancer Diagnosis from CT Scan Using Deep Learning-Based Support Vector Network
+T2  - Cancers
+VL  - 14
+ER  -
+TY  - CONF
+AB  - Lung cancer is among the most fatal disease in developed countries, and early diagnosis of the disease is difficult. Lung cancer diagnosis and treatment has been one of the most daunting challenges humans have encountered in recent decades. Early tumor diagnosis will continue to save a vast amount of lives around the world on a daily basis. This paper describes a method for classifying lung tumors as malignant or benign that combines a Convolutional Neural Network (CNN) with the AlexNet Network Model. AlexNet CNN is one of the transfer learning models. As compared to accuracy achieved by conventional neural network systems, the proposed CNN achieves a high degree of accuracy, which is more effective.
+AU  - Agarwal, Aman
+AU  - Patni, Kritik
+AU  - Rajeswari, D.
+DA  - 2021/7//
+DO  - 10.1109/ICCES51350.2021.9489033
+KW  - AlexNet CNN
+KW  - Benign
+KW  - Deep Learning
+KW  - Lung Cancer
+KW  - Malignant
+KW  - Morphological Operation
+KW  - Thresholding
+KW  - Transfer Learning
+PB  - Institute of Electrical and Electronics Engineers Inc.
+PY  - 2021
+SN  - 9781665435871
+SP  - 1390
+EP  - 1397
+TI  - Lung Cancer Detection and Classification Based on Alexnet CNN
+T2  - Proceedings of the 6th International Conference on Communication and Electronics Systems, ICCES 2021
+ER  -
+TY  - JOUR
+AB  - Significant advancements in machine learning algorithms have the potential to aid in the early detection and prevention of cancer, a devastating disease. However, traditional research methods face obstacles, and the amount of cancer-related information is rapidly expanding. The authors have developed a helpful support system using three distinct deep-learning models, ResNet-50, EfficientNet-B3, and ResNet-101, along with transfer learning, to predict lung cancer, thereby contributing to health and reducing the mortality rate associated with this condition. This offer aims to address the issue effectively. Using a dataset of 1,000 DICOM lung cancer images from the LIDC-IDRI repository, each image is classified into four different categories. Although deep learning is still making progress in its ability to analyze and understand cancer data, this research marks a significant step forward in the fight against cancer, promoting better health outcomes and potentially lowering the mortality rate. The Fusion Model, like all other models, achieved 100% precision in classifying Squamous Cells. The Fusion Model and ResNet-50 achieved a precision of 90%, closely followed by EfficientNet-B3 and ResNet-101 with slightly lower precision. To prevent overfitting and improve data collection and planning, the authors implemented a data extension strategy. The relationship between acquiring knowledge and reaching specific scores was also connected to advancing and addressing the issue of imprecise accuracy, ultimately contributing to advancements in health and a reduction in the mortality rate associated with lung cancer.
+AU  - Kumar, Vinod
+AU  - Prabha, Chander
+AU  - Sharma, Preeti
+AU  - Mittal, Nitin
+AU  - Askar, S. S.
+AU  - Abouhawwash, Mohamed
+DA  - 2024/12//
+DO  - 10.1186/s12880-024-01241-4
+IS  - 1
+KW  - Cancer Detection
+KW  - Deep Learning
+KW  - EfficientNet-B3
+KW  - Fusion
+KW  - Lung Cancer
+KW  - ResNet-101
+KW  - ResNet-50
+PB  - BioMed Central Ltd
+PY  - 2024
+TI  - Unified deep learning models for enhanced lung cancer prediction with ResNet-50–101 and EfficientNet-B3 using DICOM images
+T2  - BMC Medical Imaging
+VL  - 24
+ER  -
+TY  - JOUR
+AB  - Lung cancer is one of the major causes of cancer-related deaths due to its aggressive nature and delayed detections at advanced stages. Early detection of lung cancer is very important for the survival of an individual, and is a significant challenging problem. Generally, chest radiographs (X-ray) and computed tomography (CT) scans are used initially for the diagnosis of the malignant nodules; however, the possible existence of benign nodules leads to erroneous decisions. At early stages, the benign and the malignant nodules show very close resemblance to each other. In this paper, a novel deep learning-based model with multiple strategies is proposed for the precise diagnosis of the malignant nodules. Due to the recent achievements of deep convolutional neural networks (CNN) in image analysis, we have used two deep three-dimensional (3D) customized mixed link network (CMixNet) architectures for lung nodule detection and classification, respectively. Nodule detections were performed through faster R-CNN on efficiently-learned features from CMixNet and U-Net like encoder–decoder architecture. Classification of the nodules was performed through a gradient boosting machine (GBM) on the learned features from the designed 3D CMixNet structure. To reduce false positives and misdiagnosis results due to different types of errors, the final decision was performed in connection with physiological symptoms and clinical biomarkers. With the advent of the internet of things (IoT) and electro-medical technology, wireless body area networks (WBANs) provide continuous monitoring of patients, which helps in diagnosis of chronic diseases—especially metastatic cancers. The deep learning model for nodules’ detection and classification, combined with clinical factors, helps in the reduction of misdiagnosis and false positive (FP) results in early-stage lung cancer diagnosis. The proposed system was evaluated on LIDC-IDRI datasets in the form of sensitivity (94%) and specificity (91%), and better results were obatined compared to the existing methods.
+AU  - Nasrullah, Nasrullah
+AU  - Sang, Jun
+AU  - Alam, Mohammad S.
+AU  - Mateen, Muhammad
+AU  - Cai, Bin
+AU  - Hu, Haibo
+DA  - 2019/9//
+DO  - 10.3390/s19173722
+IS  - 17
+KW  - Clinical biomarkers
+KW  - Deep convolutional neural networks
+KW  - Internet of things
+KW  - Pulmonary nodules
+KW  - Wireless body area networks
+PB  - MDPI AG
+PY  - 2019
+TI  - Automated lung nodule detection and classification using deep learning combined with multiple strategies
+T2  - Sensors (Switzerland)
+VL  - 19
+ER  -
+TY  - JOUR
+AB  - We trained a large, deep convolutional neural network to classify the 1.2 million high-resolution images in the ImageNet LSVRC-2010 contest into the 1000 different classes. On the test data, we achieved top-1 and top-5 error rates of 37.5% and 17.0%, respectively, which is considerably better than the previous state-of-the-art. The neural network, which has 60 million parameters and 650,000 neurons, consists of five convolutional layers, some of which are followed by max-pooling layers, and three fully connected layers with a final 1000-way softmax. To make training faster, we used nonsaturating neurons and a very efficient GPU implementation of the convolution operation. To reduce overfitting in the fully connected layers we employed a recently developed regularization method called "dropout" that proved to be very effective. We also entered a variant of this model in the ILSVRC-2012 competition and achieved a winning top-5 test error rate of 15.3%, compared to 26.2% achieved by the second-best entry.
+AU  - Krizhevsky, Alex
+AU  - Sutskever, Ilya
+AU  - Hinton, Geoffrey E.
+DA  - 2017/6//
+DO  - 10.1145/3065386
+IS  - 6
+PB  - Association for Computing Machinery
+PY  - 2017
+SP  - 84
+EP  - 90
+TI  - ImageNet classification with deep convolutional neural networks
+T2  - Communications of the ACM
+VL  - 60
+ER  -
+TY  - JOUR
+AB  - Tumor histology is an important predictor of therapeutic response and outcomes in lung cancer. Tissue sampling for pathologist review is the most reliable method for histology classification, however, recent advances in deep learning for medical image analysis allude to the utility of radiologic data in further describing disease characteristics and for risk stratification. In this study, we propose a radiomics approach to predicting non-small cell lung cancer (NSCLC) tumor histology from non-invasive standard-of-care computed tomography (CT) data. We trained and validated convolutional neural networks (CNNs) on a dataset comprising 311 early-stage NSCLC patients receiving surgical treatment at Massachusetts General Hospital (MGH), with a focus on the two most common histological types: adenocarcinoma (ADC) and Squamous Cell Carcinoma (SCC). The CNNs were able to predict tumor histology with an AUC of 0.71(p = 0.018). We also found that using machine learning classifiers such as k-nearest neighbors (kNN) and support vector machine (SVM) on CNN-derived quantitative radiomics features yielded comparable discriminative performance, with AUC of up to 0.71 (p = 0.017). Our best performing CNN functioned as a robust probabilistic classifier in heterogeneous test sets, with qualitatively interpretable visual explanations to its predictions. Deep learning based radiomics can identify histological phenotypes in lung cancer. It has the potential to augment existing approaches and serve as a corrective aid for diagnosticians.
+AU  - Chaunzwa, Tafadzwa L.
+AU  - Hosny, Ahmed
+AU  - Xu, Yiwen
+AU  - Shafer, Andrea
+AU  - Diao, Nancy
+AU  - Lanuti, Michael
+AU  - Christiani, David C.
+AU  - Mak, Raymond H.
+AU  - Aerts, Hugo J.W.L.
+DA  - 2021/12//
+DO  - 10.1038/s41598-021-84630-x
+IS  - 1
+PB  - Nature Research
+PY  - 2021
+TI  - Deep learning classification of lung cancer histology using CT images
+T2  - Scientific Reports
+VL  - 11
+ER  -
+TY  - JOUR
+AB  - Lung cancer is one of the main reasons for death in the world among both men and women, with an impressive rate of about five million deadly cases per year. Computed Tomography (CT) scan can provide valuable information in the diagnosis of lung diseases. The main objective of this work is to detect the cancerous lung nodules from the given input lung image and to classify the lung cancer and its severity. To detect the location of the cancerous lung nodules, this work uses novel Deep learning methods. This work uses best feature extraction techniques such as Histogram of oriented Gradients (HoG), wavelet transform-based features, Local Binary Pattern (LBP), Scale Invariant Feature Transform (SIFT) and Zernike Moment. After extracting texture, geometric, volumetric and intensity features, Fuzzy Particle Swarm Optimization (FPSO) algorithm is applied for selecting the best feature. Finally, these features are classified using Deep learning. A novel FPSOCNN reduces computational complexity of CNN. An additional valuation is performed on another dataset coming from Arthi Scan Hospital which is a real-time data set. From the experimental results, it is shown that novel FPSOCNN performs better than other techniques.
+AU  - Asuntha, A.
+AU  - Srinivasan, Andy
+DA  - 2020/3//
+DO  - 10.1007/s11042-019-08394-3
+IS  - 11-12
+KW  - CNN
+KW  - Classifiers
+KW  - Deep learning
+KW  - Lung cancer
+KW  - Real-time
+PB  - Springer
+PY  - 2020
+SP  - 7731
+EP  - 7762
+TI  - Deep learning for lung Cancer detection and classification
+T2  - Multimedia Tools and Applications
+VL  - 79
+ER  -
+TY  - JOUR
+AB  - Recently, research has shown an increased spread of non-communicable diseases such as cancer. Lung cancer diagnosis and detection has become one of the biggest obstacles in recent years. Early lung cancer diagnosis and detection would reliably promote safety and the survival of many lives globally. The precise classification of lung cancer using medical images will help physicians select suitable therapy to reduce cancer mortality. Much work has been carried out in lung cancer detection using CNN. However, lung cancer prediction still becomes difficult due to the multifaceted designs in the CT scan. Moreover, CNN models have challenges that affect their performance, including choosing the optimal architecture, selecting suitable model parameters, and picking the best values for weights and biases. To address the problem of selecting optimal weight and bias combination required for classification of lung cancer in CT images, this study proposes a hybrid metaheuristic and CNN algorithm. We first designed a CNN architecture and then computed the solution vector of the model. The resulting solution vector was passed to the Ebola optimization search algorithm (EOSA) to select the best combination of weights and bias to train the CNN model to handle the classification problem. After thoroughly training the EOSA-CNN hybrid model, we obtained the optimal configuration, which yielded good performance. Experimentation with the publicly accessible Iraq-Oncology Teaching Hospital / National Center for Cancer Diseases (IQ-OTH/NCCD) lung cancer dataset showed that the EOSA metaheuristic algorithm yielded a classification accuracy of 0.9321. Similarly, the performance comparisons of EOSA-CNN with other methods, namely, GA-CNN, LCBO-CNN, MVO-CNN, SBO-CNN, WOA-CNN, and the classical CNN, were also computed and presented. The result showed that EOSA-CNN achieved a specificity of 0.7941, 0.97951, 0.9328, and sensitivity of 0.9038, 0.13333, and 0.9071 for normal, benign, and malignant cases, respectively. This confirms that the hybrid algorithm provides a good solution for the classification of lung cancer.
+AU  - Mohamed, Tehnan I.A.
+AU  - Oyelade, Olaide N.
+AU  - Ezugwu, Absalom E.
+DA  - 2023/8//
+DO  - 10.1371/journal.pone.0285796
+IS  - 8 AUGUST
+PB  - Public Library of Science
+PY  - 2023
+TI  - Automatic detection and classification of lung cancer CT scans based on deep learning and ebola optimization search algorithm
+T2  - PLoS ONE
+VL  - 18
+ER  -
+TY  - GEN
+AB  - This paper presents a systematic review of the literature focused on the lung nodule detection in chest computed tomography (CT) images. Manual detection of lung nodules by the radiologist is a sequential and time-consuming process. The detection is subjective and depends on the radiologist’s experiences. Owing to the variation in shapes and appearances of a lung nodule, it is very difficult to identify the proper location of the nodule from a huge number of slices generated by the CT scanner. Small nodules (< 10 mm in diameter) may be missed by this manual detection process. Therefore, computer-aided diagnosis (CAD) system acts as a “second opinion” for the radiologists, by making final decision quickly with higher accuracy and greater confidence. The goal of this survey work is to present the current state of the artworks and their progress towards lung nodule detection to the researchers and readers in this domain. This review paper has covered the published works from 2009 to April 2018. Different nodule detection approaches are described elaborately in this work. Recently, it is observed that deep learning (DL)-based approaches are applied extensively for nodule detection and characterization. Therefore, emphasis has been given to convolutional neural network (CNN)-based DL approaches by describing different CNN-based networks.
+AU  - Halder, Amitava
+AU  - Dey, Debangshu
+AU  - Sadhu, Anup K.
+DA  - 2020/6//
+DO  - 10.1007/s10278-020-00320-6
+IS  - 3
+KW  - Deep learning
+KW  - Early detection
+KW  - Feature engineering
+KW  - Lung cancer
+KW  - Lung nodule
+KW  - Nodule detection
+PB  - Springer
+PY  - 2020
+SP  - 655
+EP  - 677
+TI  - Lung Nodule Detection from Feature Engineering to Deep Learning in Thoracic CT Images: a Comprehensive Review
+T2  - Journal of Digital Imaging
+VL  - 33
+ER  -
+TY  - GEN
+AB  - Detecting malignant lung nodules from computed tomography (CT) scans is a hard and time-consuming task for radiologists. To alleviate this burden, computer-aided diagnosis (CAD) systems have been proposed. In recent years, deep learning approaches have shown impressive results outperforming classical methods in various fields. Nowadays, researchers are trying different deep learning techniques to increase the performance of CAD systems in lung cancer screening with computed tomography. In this work, we review recent state-of-the-art deep learning algorithms and architectures proposed as CAD systems for lung cancer detection. They are divided into two categories—(1) Nodule detection systems, which from the original CT scan detect candidate nodules; and (2) False positive reduction systems, which from a set of given candidate nodules classify them into benign or malignant tumors. The main characteristics of the different techniques are presented, and their performance is analyzed. The CT lung datasets available for research are also introduced. Comparison between the different techniques is presented and discussed.
+AU  - Riquelme, Diego
+AU  - Akhloufi, Moulay A.
+DA  - 2020/12//
+DO  - 10.3390/ai1010003
+IS  - 1
+KW  - computer-aided diagnosis
+KW  - convolutional neural networks
+KW  - deep learning
+KW  - lung cancer
+KW  - nodule detection
+PB  - Multidisciplinary Digital Publishing Institute (MDPI)
+PY  - 2020
+SP  - 28
+EP  - 67
+TI  - Deep Learning for Lung Cancer Nodules Detection and Classification in CT Scans
+T2  - AI (Switzerland)
+VL  - 1
+ER  -
+TY  - JOUR
+AB  - The work in this research focuses on the automatic classification and prediction of lung cancer using computed tomography (CT) scans, employing Deep Learning (DL) strategies, specifically Enhanced Convolutional Neural Networks (CNNs), to enable rapid and accurate image analysis. This research designed and developed pre-trained models, including ConvNeXtSmall, VGG16, ResNet50, InceptionV3, and EfficientNetB0, to classify lung cancer. The dataset was divided into four classes, consisting of 338 images of adenocarcinoma, 187 images of large cell carcinoma, 260 images of squamous cell carcinoma, and 215 normal images. Notably, The Enhanced CNN model achieved an unprecedented testing accuracy of 100 %, outperforming all other models, which included ConvNeXt at 87 %, VGG16 at 99 %, ResNet50 at 94.5 %, InceptionV3 at 76.9 %, and EfficientNetB0 at 97.9 %. The study of this research is considered the first one that hits 100 % testing accuracy with an Enhanced CNN, demonstrating significant advancements in lung cancer detection through the application of sophisticated image enhancement techniques and innovative model architectures. This highlights the potential of Enhanced CNN models in transforming lung cancer diagnostics and emphasizes the importance of integrating advanced image processing techniques into clinical practice.
+AU  - Shatnawi, Mohammad Q.
+AU  - Abuein, Qusai
+AU  - Al-Quraan, Romesaa
+DA  - 2025/1//
+DO  - 10.1016/j.ibmed.2024.100188
+KW  - Computed tomography (CT)
+KW  - Deep Learning (DL)
+KW  - Enhanced Convolutional Neural Networks (CNNs)
+KW  - Lung cancer(LC)
+PB  - Elsevier B.V.
+PY  - 2025
+TI  - Deep learning-based approach to diagnose lung cancer using CT-scan images
+T2  - Intelligence-Based Medicine
+VL  - 11
+ER  -
+TY  - JOUR
+AB  - Medical imaging stands as a critical component in diagnosing various diseases, where traditional methods often rely on manual interpretation and conventional machine learning techniques. These approaches, while effective, come with inherent limitations such as subjectivity in interpretation and constraints in handling complex image features. This research paper proposes an integrated deep learning approach utilizing pre-trained models—VGG16, ResNet50, and InceptionV3—combined within a unified framework to improve diagnostic accuracy in medical imaging. The method focuses on lung cancer detection using images resized and converted to a uniform format to optimize performance and ensure consistency across datasets. Our proposed model leverages the strengths of each pre-trained network, achieving a high degree of feature extraction and robustness by freezing the early convolutional layers and fine-tuning the deeper layers. Additionally, techniques like SMOTE and Gaussian Blur are applied to address class imbalance, enhancing model training on underrepresented classes. The model’s performance was validated on the IQ-OTH/NCCD lung cancer dataset, which was collected from the Iraq-Oncology Teaching Hospital/National Center for Cancer Diseases over a period of three months in fall 2019. The proposed model achieved an accuracy of 98.18%, with precision and recall rates notably high across all classes. This improvement highlights the potential of integrated deep learning systems in medical diagnostics, providing a more accurate, reliable, and efficient means of disease detection.
+AU  - Kumaran S, Yogesh
+AU  - Jeya, J. Jospin
+AU  - Mahesh T, R.
+AU  - Khan, Surbhi Bhatia
+AU  - Alzahrani, Saeed
+AU  - Alojail, Mohammed
+DA  - 2024/12//
+DO  - 10.1186/s12880-024-01345-x
+IS  - 1
+KW  - Deep learning
+KW  - Diagnostic accuracy
+KW  - Feature extraction
+KW  - Image classification
+KW  - InceptionV3
+KW  - Lung cancer detection
+KW  - Medical imaging
+KW  - ResNet50
+KW  - SMOTE
+KW  - VGG16
+PB  - BioMed Central Ltd
+PY  - 2024
+TI  - Explainable lung cancer classification with ensemble transfer learning of VGG16, Resnet50 and InceptionV3 using grad-cam
+T2  - BMC Medical Imaging
+VL  - 24
+ER  -
